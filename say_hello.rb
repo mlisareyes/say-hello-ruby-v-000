@@ -1,1 +1,1 @@
-say_hello("Monica")
+say_hello("Kent Beck")
